@@ -1,2 +1,2 @@
 # vigenere-cipher
-vigenere cipher: to encode/decode using keywords
+to encode/decode texts using keywords
