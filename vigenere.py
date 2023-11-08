@@ -27,12 +27,12 @@ if __name__ == "__main__":
     string = input("Text to process: ")
     keyword = input("Keyword: ")
     mode = input("Encrypt or decrypt? (Type 'e' or 'd'): ").lower()
-    if mode not in ["encrypt", "decrypt"]:
+    if mode not in ["e", "d"]:
         print("Invalid mode. Please enter 'e' or 'd'.")
     else:
         key = generateKey(string, keyword)
         result = vigenere(string, key, mode)
-        if mode == "encrypt":
+        if mode == "e":
             print("Ciphertext:", result)
         else:
             print("Original/Decrypted Text:", result)
