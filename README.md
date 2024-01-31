@@ -1,4 +1,4 @@
-# Vigenere Cipher
+# 🧩🔒 - Vigenere Cipher
 
 This Python script implements the Vigenere cipher for encrypting and decrypting text based on a provided keyword.
 
