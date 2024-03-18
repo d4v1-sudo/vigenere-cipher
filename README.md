@@ -50,3 +50,5 @@ Ciphertext: RiJvsPvyG
 - The keyword should consist of alphabetic characters only.
 
 Feel free to use and modify the script for your cryptographic needs. If you encounter any issues or have suggestions for improvements, please let us know.
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2Fvigenere-cipher"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2Fvigenere-cipher&label=Thanks%20for%20dropping%20in&countColor=%23d9e3f0" /></a>
